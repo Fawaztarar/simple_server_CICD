@@ -1,5 +1,5 @@
 {
   "name": "simple_server",
-  "domain": "fawaztarar-simple.xf.mkrs.link",
+  "domain": "fawaztarar-simple=CICD.xf.mkrs.link",
   "port": "5000"
 }
